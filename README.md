@@ -1,5 +1,3 @@
-Tentu, ini adalah terjemahan lengkap ke dalam Bahasa Melayu yang mengekalkan gaya bahasa teknikal namun tetap santai dan mudah difahami.
-
 ---
 
 # 🎬 Cloudstream Plugin Generator Suite
